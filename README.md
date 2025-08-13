@@ -8,6 +8,7 @@ This project lets you play Subway Surfers (or similar running games) using hand 
 
 The system uses computer vision to track hand movements in real-time and map them to game controls.
 
+
 ✨ Features
 🎥 Webcam-based gesture detection
 
@@ -19,6 +20,7 @@ The system uses computer vision to track hand movements in real-time and map the
 
 🖥 Works without additional hardware — just your webcam
 
+
 🛠 Tech Stack
 Python
 
@@ -27,6 +29,7 @@ OpenCV for video processing
 MediaPipe for hand gesture recognition
 
 PyAutoGUI / Keyboard control libraries for key mapping
+
 
 🚀 How to Run
 Clone the repository

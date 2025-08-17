@@ -38,4 +38,4 @@ Install dependencies from requirements.txt
 
 Run python main.py
 
-Open your game and start playing using gestures!
+Open your game and start playing using gestures!....

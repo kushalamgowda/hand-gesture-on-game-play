@@ -9,6 +9,7 @@ This project lets you play Subway Surfers (or similar running games) using hand 
 The system uses computer vision to track hand movements in real-time and map them to game controls.
 
 
+
                 ┌─────────────────────────────┐
                 │        Camera Input          │
                 │   (Webcam / External Cam)    │

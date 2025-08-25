@@ -2,6 +2,7 @@
 
 This project lets you play Subway Surfers (or similar running games) using hand gestures detected through your webcam — no keyboard needed!
 
+
 🖐 Left Hand Gesture → Move Left
 
 🖐 Right Hand Gesture → Move Right
